@@ -363,3 +363,4 @@ D:\HoangDucHieu_2121051191_KiemTra_2425\Mvc\obj\Debug\net9.0\refint\Mvc.dll
 D:\HoangDucHieu_2121051191_KiemTra_2425\Mvc\obj\Debug\net9.0\Mvc.pdb
 D:\HoangDucHieu_2121051191_KiemTra_2425\Mvc\obj\Debug\net9.0\Mvc.genruntimeconfig.cache
 D:\HoangDucHieu_2121051191_KiemTra_2425\Mvc\obj\Debug\net9.0\ref\Mvc.dll
+D:\HoangDucHieu_2121051191_KiemTra_2425\Mvc\obj\Debug\net9.0\Mvc.sourcelink.json

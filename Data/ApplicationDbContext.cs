@@ -14,6 +14,6 @@ namespace Mvc.Data
         {
         }
 
-        public DbSet<Mvc.Models.Demoabc> Demoabc { get; set; } = default!;
+        public DbSet<Demoabc> Demoabc { get; set; } = default!;
     }
 }
